@@ -1,0 +1,3 @@
+C:\Users\alexm\Documents\Cours\Ynov\Cours C\Exercice\Intro3D\Intro3D\x64\Debug\Intro3D.vcxproj.Up2Date
+C:\Users\alexm\Documents\Cours\Ynov\B3\Cours C\Exercice\Intro3D\Intro3D\x64\Debug\Intro3D.vcxproj.Up2Date
+C:\Users\alexm\Documents\Cours\Ynov\B3\Cours C\Projet\Projet-SFML-3D\Intro3D\x64\Debug\Intro3D.vcxproj.Up2Date

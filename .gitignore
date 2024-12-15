@@ -1,0 +1,28 @@
+# Exclure vcpkg build artifacts
+vcpkg_installed/
+packages/
+buildtrees/
+downloads/
+
+# Exclure les fichiers binaires
+*.exe
+*.dll
+*.so
+*.dylib
+*.loo
+*.json
+
+# Exclure les fichiers de configuration générés par IDE
+.vscode/
+.idea/
+
+# Exclure les fichiers de build
+build/
+*.o
+*.obj
+*.pdb
+*.lib
+*.log
+
+# Exclure tout autre fichier inutile
+.DS_Store
